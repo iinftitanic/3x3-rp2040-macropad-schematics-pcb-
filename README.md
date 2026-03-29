@@ -28,3 +28,4 @@ this is the final product (of the schematic ofc) and now i just generated the PC
 <img width="548" height="851" alt="image" src="https://github.com/user-attachments/assets/e4dd9db5-f807-49ab-a4f1-74ea5f91fe8b" />
 
 yep so thats it pretty much it for the hardware part
+ive now coded it up too ! took some help from chatgpt nd claude but yeah its up and boomingg ! ive got the oled screen to work too... it can display basic things like volume, the mode im using my mocrocontroller on and etc...

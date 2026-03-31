@@ -1,5 +1,3 @@
-whattupp people ! ts my new projectt !
-
 basic specs drop :
 
 -> 9 mechanical keys (3×3 layout)
@@ -29,3 +27,8 @@ this is the final product (of the schematic ofc) and now i just generated the PC
 
 yep so thats it pretty much it for the hardware part
 ive now coded it up too ! took some help from chatgpt nd claude but yeah its up and boomingg ! ive got the oled screen to work too... it can display basic things like volume, the mode im using my mocrocontroller on and etc...
+
+yep now the designs for the case are made too (i wont say ready as they are still needing some revision)
+
+<img width="1289" height="742" alt="image" src="https://github.com/user-attachments/assets/ee7c712d-2295-4f98-9a8c-22ae624177a0" />
+
